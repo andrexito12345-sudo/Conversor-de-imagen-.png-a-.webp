@@ -1,0 +1,6 @@
+{
+  "name": "Conversor de PNG a WebP",
+  "description": "Una herramienta web para convertir múltiples formatos de imagen (PNG, JPG, JPEG, WEBP, AVIF, GIF, BMP, SVG) a WebP y optimizar su tamaño automáticamente.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
