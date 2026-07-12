@@ -94,7 +94,7 @@ APP_URL="MY_APP_URL"
 
 ## 📄 Licencia
 
-Este proyecto se distribuye sin una licencia específica. Añade la que prefieras (por ejemplo, [MIT](https://choosealicense.com/licenses/mit/)) si vas a publicarlo o reutilizarlo.
+Distribuido bajo la licencia **MIT**. Consulta el archivo [`LICENSE`](./LICENSE) para más detalles.
 
 ---
 
